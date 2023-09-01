@@ -17,7 +17,7 @@ Find out the actual TPS for if 120000 users can give load for 12 hours
 - Save the .jmx file in the bin folder of Jmeter
 - Run the file using Jmeter
 
-### Screenshots of report:
+## Screenshots of report:
 ### Load Test:
 
 ![image](https://github.com/Rahat65/Random-User-API-Performance-Test/assets/70316722/b7789a1f-042d-4814-85ab-8dbe3c475d45)
